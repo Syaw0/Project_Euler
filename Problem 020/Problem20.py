@@ -1,6 +1,3 @@
-from audioop import mul
-
-
 def Factorial_Digit_Sum():
     number = 100 
     multiple = 1
