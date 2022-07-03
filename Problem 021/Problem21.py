@@ -1,5 +1,3 @@
-from audioop import mul
-
 
 def Amicable_Numbers():
     number = 10001
